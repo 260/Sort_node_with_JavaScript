@@ -1,5 +1,5 @@
 //
-//  Run at http://ascii.jp/elem/000/000/760/760389/
+//  Please run at http://ascii.jp/elem/000/000/760/760389/ with Chrome.
 //
 
 var lis = $$('#mainC > ul > li');
